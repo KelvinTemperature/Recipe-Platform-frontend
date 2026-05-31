@@ -1,4 +1,4 @@
-const BACKEND_URL = 'https://recipe-platform-production-f8c7.up.railway.app'
+const BACKEND_URL = 'http://51.20.78.36:8000'
 
 export const getImageUrl = (imagePath) => {
   if (!imagePath) return null

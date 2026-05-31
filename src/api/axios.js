@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://recipe-platform-production-f8c7.up.railway.app/api',
+  baseURL: 'http://51.20.78.36:8000/api',
 });
 
 // Attach token to every request automatically
