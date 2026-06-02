@@ -6,8 +6,9 @@ A bold, colorful React frontend for the Recipe Platform API. Built for food love
 
 ## 🌍 Live Demo
 
-**Frontend:** `https://discoverreceipes.vercel.app`
-**Backend API:** `https://recipe-platform-production-f8c7.up.railway.app`
+**Live URL:** http://51.20.78.36
+**API:** http://51.20.78.36/api/
+**Admin:** http://51.20.78.36/admin/
 
 ---
 
